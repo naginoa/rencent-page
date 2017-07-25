@@ -1,0 +1,54 @@
+#page{
+    height: 500px;
+}
+#top img{
+    height: 100px;
+    width: 350px;
+    margin-top: 10px;
+    border:2px solid;
+    border-radius:25px;
+    margin-left: 200px;
+}
+#denglu{
+    padding-top: 5px;
+    width: 26px;
+    height: 40px;
+    border-right:solid 1px;
+    float: left;
+    line-height: 18px;
+}
+#log_in{
+    border-radius: 15px;
+    width: 190px;
+    height: 48px;
+    background-color: beige;
+    margin-top: -50px;
+}
+#main{
+}
+#main3left{
+}
+#main input{
+    background: url("image/video.png") no-repeat ;
+    width: 108px;
+    height: 105px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 37px;
+}
+#keybord{
+    margin-top: -200px;
+    margin-left: 200px;
+    background-color: cornsilk;
+    width: 450px;
+    height: 50px;
+    border-radius: 15px;
+}
+#title{
+    height: 50px;
+    width: 130px;
+    float: left;
+}
+#keybord a:hover{
+    background: url("image/search-field.gif");
+}
